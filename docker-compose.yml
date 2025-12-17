@@ -1,3 +1,5 @@
+version: '3.3'
+
 services:
   # MinIO - Object Storage (S3-compatible)
   minio:
