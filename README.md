@@ -518,3 +518,7 @@ Este projeto é fornecido "como está" para fins educacionais e de desenvolvimen
 **Desenvolvido para facilitar o aprendizado e desenvolvimento de Data Lakes** 🚀
 
 Para dúvidas ou melhorias, consulte a documentação oficial de cada ferramenta.
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ml043q7def6xitnjzhnm" alt="trackgit-views" />
+</a>
